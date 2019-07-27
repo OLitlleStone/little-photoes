@@ -1,0 +1,2 @@
+在<script src="/js/bootstrap.min.js"></script>这里面需要添加
+一个/但是在<%%>这个里面不用添加/，因为那个里面用到的是相对路径
