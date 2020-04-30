@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "formidable": "^1.2.1",
     "jade": "^1.11.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "silly-datetime": "^0.1.2",
     "springedge": "^1.0.5",
     "wechaty": "^0.26.1"
